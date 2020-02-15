@@ -9,4 +9,4 @@ class CardScan {
     var cardRank: String? = null
 }
 
-Example: cardType = Heart, cardRand : King
+Example: cardType = Heart, cardRank : King
